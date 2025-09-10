@@ -22,8 +22,8 @@ FastAPI application that logs every chat turn to SQLite database with comprehens
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/intern-2025-q9.git
-   cd intern-2025-q9
+   git clone https://github.com/yourusername/09-database-logging-chat-history.git
+   cd 09-database-logging-chat-history
    ```
 
 2. **Install dependencies:**
